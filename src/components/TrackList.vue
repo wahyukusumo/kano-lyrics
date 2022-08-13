@@ -13,7 +13,7 @@
           <br>
         </div>
         <div v-else>
-          <p>Unfortunately, I can't find the lyrics for this song 😞</p>
+          <p class="text-base whitespace-pre-line">Unfortunately, I can't find the lyrics for this song 😞</p>
         </div>
       </AccordionBar>
 
