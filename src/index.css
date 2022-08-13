@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .myscroll {
+        scrollbar-color: theme('colors.neutral.200') theme('colors.transparent');
+    }
+
+    .mytransition {
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height .5s ease-out;
+    }
+
+    .myscale {
+        transition: scale(1.2)
+    }
+}

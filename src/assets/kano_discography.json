@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "album_title": "Bambi~no",
+    "cover": "bambi_no.webp",
+    "released": "January 16, 2011",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Hello/How Are You",
+        "misc": "(lyrics: Nanou, music, arrange: Nanou)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Melancholic",
+        "misc": "(lyrics: Junky, music, arrange: Junky)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Binetsu",
+        "misc": "(lyrics: Kano, music, arrange: ArieP)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "One Night Disco",
+        "misc": "(lyrics: Kano, music, arrange: nana (Sevencolors))",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Sekai ni tada Hitori no",
+        "misc": "(lyrics, music, arrange: fatmanP)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Usotsuki Imitation",
+        "misc": "(lyrics: Kano, nana, music, arrange: nana (Sevencolors))",
+        "lyrics": ""
+      },
+      {
+        "id": 7,
+        "title": "yumeiro",
+        "misc": "(lyrics, music, arrange: yuri sin (Weekend Paradise))",
+        "lyrics": ""
+      },
+      {
+        "id": 8,
+        "title": "Reflection",
+        "misc": "(lyrics: nuts, music, arrange: nana (Sevencolors))",
+        "lyrics": ""
+      },
+      {
+        "id": 9,
+        "title": "crack",
+        "misc": "(lyrics, music, arrange: keeno)",
+        "lyrics": ""
+      },
+      {
+        "id": 10,
+        "title": "Good bye-bye",
+        "misc": "(lyrics, music, arrange: NishisawasanP)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "album_title": "Sweet Ices Cream",
+    "cover": "sweet_ices_cream.webp",
+    "released": "November 08, 2011",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Sayoko",
+        "misc": "(lyrics, music, arrange: MikitoP)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Human",
+        "misc": "(lyrics, music, arrange: PowapowaP)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Hatsukoi Regret",
+        "misc": "(lyrics, music, arrange: matsukP)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "6900000000",
+        "misc": "(lyrics, music, arrange: ∵)KyotonP)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Mermaid",
+        "misc": "(lyrics, music, arrange: 10hiP)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Mad Lovers",
+        "misc": "(lyrics, music, arrange: HachioujiP)",
+        "lyrics": ""
+      },
+      {
+        "id": 7,
+        "title": "Dear",
+        "misc": "(lyrics, music, arrange: U-skeP)",
+        "lyrics": ""
+      },
+      {
+        "id": 8,
+        "title": "intention",
+        "misc": "(lyrics, music, arrange: U-skeP)",
+        "lyrics": ""
+      },
+      {
+        "id": 9,
+        "title": "Mushroom Mother",
+        "misc": "(lyrics, music, arrange: PinocchioP)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "album_title": "Shuumatsu Ippanron",
+    "cover": "shuumatsu_ippanron.webp",
+    "released": "December 31, 2011",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Marie",
+        "misc": "(lyrics, music, arrange: shino)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Yumeiro",
+        "misc": "(lyrics, music, arrange: shino)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Last Loop",
+        "misc": "(lyrics, music, arrange: shino)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Carnival",
+        "misc": "(lyrics, music, arrange: shino)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Kuuchuu Blanco",
+        "misc": "(lyrics, music, arrange: shino)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "album_title": "Aimai Banbi~na",
+    "cover": "aimai_banbi_na.webp",
+    "released": "August 11, 2012",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Nijigen Dream Fever",
+        "misc": "(lyrics: Polyphonic Branch, music: Polyphonic Branch)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Rokuchounen to Ichiya Monogatari",
+        "misc": "(lyrics, music: kemu)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Souzou Forest",
+        "misc": "(lyrics, music: Jin)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "ghost",
+        "misc": "(lyrics, music: minjta)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Sekai no Hajimari",
+        "misc": "(lyrics, music: whoo)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Interviewer",
+        "misc": "(lyrics, music: KuwagataP)",
+        "lyrics": ""
+      },
+      {
+        "id": 7,
+        "title": "Aitai",
+        "misc": "(lyrics, music: SignalP)",
+        "lyrics": ""
+      },
+      {
+        "id": 8,
+        "title": "Kurikaeshi Hitotsubu",
+        "misc": "(lyrics, music: Nekomushi)",
+        "lyrics": ""
+      },
+      {
+        "id": 9,
+        "title": "Nekomimi Archive",
+        "misc": "(lyrics: KusoinakaP, music: KusoinakaP)",
+        "lyrics": ""
+      },
+      {
+        "id": 10,
+        "title": "Setsuna Trip",
+        "misc": "(lyrics: Last Note., music: Last Note.)",
+        "lyrics": ""
+      },
+      {
+        "id": 11,
+        "title": "Irony",
+        "misc": "(lyrics: scop, music: scop)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "album_title": "Sukinano.",
+    "cover": "sukinano.webp",
+    "released": "January 03, 2013",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Hello/How Are You",
+        "misc": "(lyrics: Nanou, music: Nanou, arrange: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Utautai no Uta",
+        "misc": "(lyrics, music: Nanou, arrange: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "[It's not] World's end",
+        "misc": "(lyrics, music: Nanou, arrange: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Nee.",
+        "misc": "(lyrics, music: Nanou, arrange: keeno)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Asayake, Kimi no Uta",
+        "misc": "(lyrics, music: Nanou, arrange: keeno)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Sakura no Zenya",
+        "misc": "(lyrics, music: Nanou, arrange: keeno)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "album_title": "Zaregoto Klein",
+    "cover": "zaregoto_klein.webp",
+    "released": "August 16, 2013",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Keppekishou",
+        "misc": "(lyrics: scop, music: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Yuurei Yashiki no Kubitsuri Shoujo",
+        "misc": "(lyrics: Tohma, music: Tohma)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Jibeta Travel",
+        "misc": "(lyrics, music: Hinata Denkou)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Setsuna Plus",
+        "misc": "(lyrics: MikitoP, music: MikitoP)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Usotsuki",
+        "misc": "(lyrics, music: Tsunamaru)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Sainou Sampler",
+        "misc": "(lyrics: koyori, music: koyori)",
+        "lyrics": ""
+      },
+      {
+        "id": 7,
+        "title": "Kusare Gedou to Chocolate",
+        "misc": "(lyrics: PinnochioP, music: PinnochioP)",
+        "lyrics": ""
+      },
+      {
+        "id": 8,
+        "title": "Pierrot",
+        "misc": "(lyrics: KEI, music: KEI)",
+        "lyrics": ""
+      },
+      {
+        "id": 9,
+        "title": "April Loop",
+        "misc": "(lyrics: Nekobolo, music: Nekobolo)",
+        "lyrics": ""
+      },
+      {
+        "id": 10,
+        "title": "Ama no Jaku",
+        "misc": "(lyrics: 164, music: 164)",
+        "lyrics": ""
+      },
+      {
+        "id": 11,
+        "title": "Zaregoto Klein",
+        "misc": "(lyrics, music: scop)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "album_title": "Arumachi no Hakuchumu",
+    "cover": "arumachi_no_hakuchumu.webp",
+    "released": "December 31, 2013",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Inochi-on Noisy",
+        "misc": "(lyrics: koyori, music: koyori)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Yuudachi no Ribbon",
+        "misc": "(lyrics: MikitoP, music: MikitoP)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Kodomo no Shikumi",
+        "misc": "(lyrics: PinocchioP, music: PinocchioP)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Telomere no Ubugoe",
+        "misc": "(lyrics: HeavenzP, music: HeavenzP)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "paranoia",
+        "misc": "(lyrics: MezameP, music: MezameP)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Merry Merry",
+        "misc": "(lyrics: IchiokuenP, music: IchiokuenP)",
+        "lyrics": ""
+      },
+      {
+        "id": 7,
+        "title": "Doubutsu Uranai",
+        "misc": "(lyrics: scop, music: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 8,
+        "title": "Hikenai Guitar wo Katate ni",
+        "misc": "(lyrics, music: Nekobolo)",
+        "lyrics": ""
+      },
+      {
+        "id": 9,
+        "title": "World on Color",
+        "misc": "(lyrics: koyori, music: koyori)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "album_title": "Good Hello",
+    "cover": "good_hello.webp",
+    "released": "December 30, 2014",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Good Night Everyone",
+        "misc": "(lyrics, music, arrange: HoehoeP)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Kujira no Yume no Yukue",
+        "misc": "(lyrics, music, arrange: whoo)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Uchiki ni Daring Love",
+        "misc": "(lyrics: koyori, music, arrange: koyori)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Hero ga Konai",
+        "misc": "(lyrics: PinocchioP, music, arrange: PinocchioP)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Bowwow March",
+        "misc": "(lyrics, music, arrange: dezzy)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Senro de Arukou",
+        "misc": "(lyrics, music, arrange: nakano4)",
+        "lyrics": ""
+      },
+      {
+        "id": 7,
+        "title": "Sanctuary",
+        "misc": "(lyrics: scop, music, arrange: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 8,
+        "title": "decide",
+        "misc": "(lyrics, music, arrange: keeno)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "album_title": "Stella-rium",
+    "cover": "stella_rium.webp",
+    "released": "May 20, 2015",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Stella-rium",
+        "misc": "(lyrics: Kiyomi Kumano, music: samfree, arrange: samfree)",
+        "lyrics": "check"
+      },
+      {
+        "id": 2,
+        "title": "Walk This Way!",
+        "misc": "(lyrics: Kiyomi Kumano, music, arrange: samfree)",
+        "lyrics": "<br>[0:17.565]Nemui asa no ni do ne wa batten<br>[0:19.245]Yume no naka no jibun ni gatten<br>[0:21.165]Wake Up! Get Up!<br>[0:22.485]Sou hiroi sora ni tobidasu kanji<br><br>[0:24.945]Kiyoi kiyoi jinsei no MOTTOO<br>[0:26.625]Tsuyoku tsuyoku dakishimete Motto<br>[0:28.545]Make Up! Take Up!<br>[0:29.925]Saa junbi ga dekitara itte miyou<br><br>[0:32.325]Osaerarenai SUPIIDO de ikioi amatte koron demo<br>[0:39.345]'Itaku nante nai!!'<br>[0:41.325]Omoikiri tsuyogari ieba hontou ni naru?!?<br><br>[0:46.365]Ima koko kara hajimaru atarashii tabi ni Hello! Hello!<br>[0:51.945]I Say Hello! Hello!<br>[0:53.985]Nanka hansei bakka shichatteta<br>[0:56.145]Kinou no jibun ni Good Bye! Good Bye!<br>[0:59.205]One More Good Bye! Good Bye!<br>[1:01.365]Hashiridashichatta kono omoi ni riyuu nante iranai yo<br>[1:05.325]Mabushii taiyou wo abite<br>[1:09.105]Mokutekichi mada mienai keredo<br>[1:12.585]Kutsu himo wo musunde Walk This Way!<br><br>[1:25.905]Mune ni hisomu wazuka na kattou<br>[1:27.525]Mou hitori no jibun to kakutou<br>[1:29.565]Keep On! Dream On!<br>[1:30.945]Mou imasara datte itteru'n dakara<br><br>[1:33.045]Atsui atsui ningen no honshou<br>[1:34.965]Tooku tooku mukashi kara issho<br>[1:36.825]Ride On! Shine On!<br>[1:38.145]Nee muzukashiku nante nai hazu ne<br><br>[1:40.425]Migi mo hidari mo nai you na mishiranu basho ni mayoikonde mo<br>[1:47.625]'Kowaku nante nai!!'<br>[1:49.845]Miushinatte shimai sou nara koe ni dashite<br><br>[1:55.005]Ima kono te de umidasu atarashii asu ni Hello! Hello!<br>[2:00.165]I Say Hello! Hello!<br>[2:02.205]Mou ne aseteku ippou no<br>[2:04.605]Miakita keshiki ni Good Bye! Good Bye!<br>[2:07.485]One More Good Bye! Good Bye!<br>[2:09.585]Juunintoiro shita joushiki ni kotae nante iranai yo<br>[2:13.485]Takai ano kabe wo koete<br>[2:17.265]Niji-iro no hikari no sasu moto he<br>[2:20.985]Gocha maze na sekai de Set Me Free!<br>[2:24.899]<br>[2:30.612](Here We Go!)<br>[2:32.745]<br>[2:54.645]Fuan mo kitai mo zenbu matomete<br>[2:58.305]PANKEEKI to issho ni tabechaou<br>[3:01.725]Kokoro dake wa kime uchi de koko ni aru kara mae wo muite<br><br>[3:10.725]Ima koko kara hajimaru atarashii tabi ni Hello! Hello!<br>[3:15.825]I Say Hello! Hello!<br>[3:17.865]Nanka hansei bakka shichatteta<br>[3:20.265]Kinou no jibun ni Good Bye! Good Bye!<br>[3:23.385]One More Good Bye! Good Bye!<br>[3:25.305]Hashiridashichatta kono omoi ni riyuu nante iranai yo<br>[3:29.265]Mabushii taiyou wo abite<br>[3:32.985]Mokutekichi mada mienai keredo<br>[3:36.765]Kutsu himo wo musunde Walk This Way!<br>[3:51.165]<br>"
+      },
+      {
+        "id": 3,
+        "title": "Koko kara, Kanata kara ~bambi-no cover~",
+        "misc": "(lyrics: Kiyomi Kumano, music: Ito Tsubasa, arrange: samfree)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Stella-rium (Instrumental)",
+        "misc": "(music, arrange: samfree)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Walk This Way! (Instrumental)",
+        "misc": "(music, arrange: samfree)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "album_title": "Dear Brave",
+    "cover": "dear_brave.webp",
+    "released": "November 18, 2015",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Dear Brave",
+        "misc": "(lyrics: scop, music, arrange: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Dizzy Syndrome",
+        "misc": "(lyrics, music, arrange: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Toy-toi",
+        "misc": "(lyrics, music, arrange: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Dear Brave (Instrumental)",
+        "misc": "(lyrics, music, arrange: scop)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "album_title": "Merry",
+    "cover": "merry.webp",
+    "released": "December 31, 2015",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Platonic Love",
+        "misc": "(lyrics: Mel, music: Mel)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Balleriko",
+        "misc": "(lyrics: MikitoP, music: MikitoP)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Suki Suki Zetchousou",
+        "misc": "(lyrics: koyori, music: koyori)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Milk Crown on Sonnetica",
+        "misc": "(lyrics: Yuzy, music: Yuzy)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Kimi no  Maboroshi",
+        "misc": "(lyrics: U-ske, music: U-ske)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Kokoronashi",
+        "misc": "(lyrics: ChouchouP, music: ChouchouP)",
+        "lyrics": ""
+      },
+      {
+        "id": 7,
+        "title": "Meryuu",
+        "misc": "(lyrics: n-buna, music: n-buna)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "album_title": "nowhere",
+    "cover": "nowhere.webp",
+    "released": "May 11, 2016",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Prima Stella",
+        "misc": "(lyrics: samfree, Kano, music, arrange: samfree, Yuuyu)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Stella-rium",
+        "misc": "(lyrics: Kuma no Kiyomi, music, arrange: samfree)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Dear Brave",
+        "misc": "(lyrics, music, arrange: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Koso Ado Kotonoha",
+        "misc": "(lyrics, music, arrange: Yuuyu)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Ima wo Kakeru Shoujo",
+        "misc": "(lyrics, arrange: 40mP, music: 40mP)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Himekoi",
+        "misc": "(lyrics: Kano, music: Tomokazu Tashiro, arrange: yashikin, Tomokazu Tashiro)",
+        "lyrics": ""
+      },
+      {
+        "id": 7,
+        "title": "Walk This Way!",
+        "misc": "(lyrics, music, arrange: samfree)",
+        "lyrics": ""
+      },
+      {
+        "id": 8,
+        "title": "JUMP! JUMP! JUMP!",
+        "misc": "(lyrics: Kano, music: Takanori Fujimoto, arrange: Takanori Fujimoto, Kotaro Odaka)",
+        "lyrics": ""
+      },
+      {
+        "id": 9,
+        "title": "Toy-toi",
+        "misc": "(lyrics, music, arrange: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 10,
+        "title": "evergreen",
+        "misc": "(lyrics, music, arrange: scop)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "album_title": "one",
+    "cover": "one.webp",
+    "released": "December 28, 2017",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Irony",
+        "misc": "(lyrics, music: scop)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Umiyuri Kaiteitan",
+        "misc": "(lyrics, music: n-buma)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "DAYBREAK FRONTLINE",
+        "misc": "(lyrics, music: Orangestar)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Calc.",
+        "misc": "(lyrics, music: JimmyThumb-P)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Shinpakusuu #0822",
+        "misc": "(lyrics, music: Chouchou-P)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "glow",
+        "misc": "(lyrics, music: keeno)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "album_title": "two",
+    "cover": "two.webp",
+    "released": "August 10, 2018",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Aimai Retsujou Lover",
+        "misc": "(lyrics, music: koyori, arrange: Loin)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Ikanaide",
+        "misc": "(lyrics, music: Sohta, arrange: Loin)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Usotsuki no Sekai (Liar's World)",
+        "misc": "(lyrics, music: scop, arrange: Loin)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "Kisasage",
+        "misc": "(lyrics, music: balloon, arrange: Loin)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Ame Kigoe Zankyou (Echo of My Voice in the Rain)",
+        "misc": "(lyrics, music: Orangestar, arrange: Loin)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Yoake to Hotaru (Dawn & Fireflies)",
+        "misc": "(lyrics, music: n-buns, music: Orangesa, arrange: Loin)",
+        "lyrics": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "album_title": "three",
+    "cover": "three.webp",
+    "released": "August 12, 2019",
+    "tracklist": [
+      {
+        "id": 1,
+        "title": "Kimi ga Umareta Hi (The Day You Were Born)",
+        "misc": "(lyrics, music: DATEKEN, arrange: Loin)",
+        "lyrics": ""
+      },
+      {
+        "id": 2,
+        "title": "Gaikotsu Gakudan to Riria (Skeleton Orchestra and Lilia)",
+        "misc": "(lyrics, music: Tohma, arrange: Loin)",
+        "lyrics": ""
+      },
+      {
+        "id": 3,
+        "title": "Earphones to Semishigure (Earphones and a Chorus of Cicadas)",
+        "misc": "(lyrics, music: Orangestar, arrange: Loin)",
+        "lyrics": ""
+      },
+      {
+        "id": 4,
+        "title": "crack",
+        "misc": "(lyrics, music: keeno, arrange: Loin)",
+        "lyrics": ""
+      },
+      {
+        "id": 5,
+        "title": "Cobalt Memories",
+        "misc": "(lyrics, music: Harumaki Gohan, arrange: Loin)",
+        "lyrics": ""
+      },
+      {
+        "id": 6,
+        "title": "Earth's Final Confession",
+        "misc": "(lyrics, music: kemu, arrange: Loin)",
+        "lyrics": ""
+      }
+    ]
+  }
+]
